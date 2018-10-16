@@ -13,11 +13,19 @@
  - 个人博客：https://jingyc0305.github.io/
  - Github：https://github.com/jingyc0305
  - 期望职位：Android开发工程师
- - 期望薪资：税前月薪12k~15k
- - 期望城市：广州
-
+ - 期望薪资：税前月薪15k~20k
+ - 期望城市：广州||北京||沈阳||大连
 
 # 工作经历
+
+## 广州宸瑞软件科技有限公司 （ 2018年6月 ~ 至今 ）
+
+### 医生/护士/院长APP
+
+- 主要负责Android版本各个医院的医生/护士/院长及新功能开发或新APP开发.
+- 熟悉医院就医等医疗业务流程
+- 项目采用原生+ReactNavie(部分功能)混合模式开发 
+- 架构采用MVP
 
 ## 广东弘视数字传媒有限公司 （ 2017年3月 ~ 2018年4月 ）
 
@@ -66,7 +74,12 @@
 ## 开源项目
 
   - [HandMvp](https://github.com/jingyc0305/HandMvp)：基于Mvp+Retrifit2+RxJava2+Okhttp 遵循MD风格的一款资源App,包含直播,点播,新闻,图片,个人中心等内容仅用于学习.目前完成数据展示及UI交互,未完成播放模块.
-  - [wxsmalldemo](https://github.com/jingyc0305/wxsmalldemo): 基于微信小程序开发工具及官方文档,编写的一款安卓技术文章咨询小程序,后台api基于http://www.wanandroid.com免费提供,目前完成所欲页面及数据展示.由于个人注册无法访问外链链接,无法阅读文章,仅可以调试模式下使用,作为业余学习.
+
+  - [wxsmalldemo](https://github.com/jingyc0305/wxsmalldemo): 基于微信小程序开发工具及官方文档,编写的一款安卓技术文章咨询小程序,后台api基于
+
+    [http://www.wanandroid.com]: 玩安卓
+
+    免费提供,目前完成所欲页面及数据展示.由于个人注册无法访问外链链接,无法阅读文章,仅可以调试模式下使用,作为业余学习.
 
 ## 技术文章
 
@@ -83,14 +96,14 @@
 
 以下均为我熟练使用的技能
 
-- 开发语言：Java/Kotlin(了解)/Python(了解)
+- 开发语言：Java/Kotlin/Web(Js/Html/Css/React Native/React)等
 
-- 开发架构：MVC/MVP
+- 开发架构：MVC/MVP/MVVM等
 
-- 开源框架：Rxjava/Retrofit/okHttp/Glide/Butterknife/Dagger/Fragmention/BaseRecycleViewAdapterHelper/...
+- 开源框架：Rxjava/Retrofit/okHttp/Glide/Butterknife/Dagger/Fragmention/BaseRecycleViewAdapterHelper/...等
 
-- 开发工具：Android Studio
+- 开发工具：Android Studio/VSCode等
 
-- 数据库相关：MySQL/SQLite
+- 数据库相关：MySQL/SQLite/Room/LitPal/GreenDao等
 
-- 代码管理、文档和自动化部署工具：SVN/Git/GitLab/OSChina
+- 代码管理、文档和自动化部署工具：SVN/Git/GitLab/OSChina等
